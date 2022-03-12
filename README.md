@@ -6,6 +6,4 @@
 
 Folder 1: Predicting the price for Health Insurance Policy (Linear Regression)
 
-Folder 2: Rainfall prediction (Logistic Regression) 
-
-Folder 3: 
+Folder 2a: Rainfall prediction (Logistic Regression, Decision Trees) 
