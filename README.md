@@ -11,6 +11,9 @@
 5. XGBoost
     - [Pyhton API (sklearn)](https://xgboost.readthedocs.io/en/latest/python/python_api.html#xgboost.XGBRegressor)
     - [XGBoost Parameters](https://xgboost.readthedocs.io/en/latest/parameter.html)
+    - [Gradient Boositng (StatsQuest)](https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6)
+    - [L1, L2 Regularization in XGBoost Regression](https://albertum.medium.com/l1-l2-regularization-in-xgboost-regression-7b2db08a59e0)
+    - [Rossmann Sales (Best Solution)](https://www.kaggle.com/code/xwxw2929/rossmann-sales-top1/notebook)
 5. Kaggle
     - [Start Here: A Gentle Introduction](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction/notebook)
     - [Introduction to Manual Feature Engineering](https://www.kaggle.com/code/willkoehrsen/introduction-to-manual-feature-engineering/notebook)
